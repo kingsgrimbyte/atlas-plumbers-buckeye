@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Atlas Plumbers | Expert Plumber in [location] - About Us",
+  "metaDescription": "Atlas Plumbers provides licensed, local plumbing services in [location]: emergency plumbing, drain cleaning, water heater repair, sewer line service, and leak detection. Call [phone] for fast 24/7 response and upfront pricing.",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/atlasplumbersbuckeye_com/Plumbing_Services_about_bannerImage_S6--8bZ-f.jpg",
+  "h1Banner": "Atlas Plumbers | Expert Plumber in [location] - About Us",
+  "p1Banner": "Atlas Plumbers provides licensed, local plumbing services in [location]: emergency plumbing, drain cleaning, water heater repair, sewer line service, and leak detection. Call [phone] for fast 24/7 response and upfront pricing.",
+  "p2": "Atlas Plumbers is the local plumbing company [location] residents call for fast, professional results. We specialize in emergency plumbing, burst pipe repair, sewer line repair and replacement, tankless and traditional water heater installation and repair, drain cleaning and hydro-jetting, slab leak detection, repiping, and routine maintenance. Our team is licensed, insured, and trained on the latest diagnostic equipment so we can quickly pinpoint leaks and restore water service with minimal disruption. With clear estimates, fixed pricing options, parts and labor warranties, and a satisfaction guarantee, we make plumbing repairs simple. Searching for “emergency plumber near me” or “water heater repair in [location]”? We provide rapid response times, seasoned technicians, and fully stocked trucks to get the job done right the first time.",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/atlasplumbersbuckeye_com/Plumbing_Services_about_h2Image_7lXFvzQOA.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To provide fast, trustworthy plumbing services across [location]—24/7 emergency response, honest estimates, and high-quality workmanship so homeowners and businesses can rely on safe, functioning plumbing systems."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To be [location]'s most recommended plumbing company by delivering expert repairs, transparent pricing, and exceptional customer care—building long-term relationships with families, property managers, and local contractors."
+    },
+    {
+      "title": "Our Values",
+      "description": "Licensed and insured technicians, upfront pricing, respect for your property, clear communication, rapid response for emergencies, and a commitment to solving plumbing problems permanently rather than applying quick fixes."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide full-service plumbing in [location] and surrounding neighborhoods—servicing single-family homes, multi-family properties, commercial sites, HOAs, and construction projects with emergency repairs, preventative maintenance, and plumbing installs.",
+    "linkText": "Check our Plumbing Service locations here.",
+    "link": "/locations"
+  }
+}
